@@ -1,9 +1,11 @@
 # Investment Memo Generator
 
-Generates a sell-side-style equity research memo (DCF, comps, ratios,
-risks/catalysts with citations, buy/hold/sell) as a PDF, from a stock
-ticker.
+   ![tests](https://github.com/uprightemeh/investment-memo-generator/actions/workflows/tests.yml/badge.svg)
 
+   Generates a sell-side-style equity research memo (DCF, comps, ratios,
+   risks/catalysts with citations, buy/hold/sell) as a PDF, from a stock
+   ticker. Includes a fully formula-driven Excel DCF model as a companion
+   deliverable.
 ## Quickstart
 
 ```bash
